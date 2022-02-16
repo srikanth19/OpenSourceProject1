@@ -10,7 +10,6 @@
 # 127 - wrong number of arguments
 # 111 - Virtual box install failed
 ##########################################
-
 ##########################################
 # variables
 INIT_VERSION='1.0.0'
